@@ -1,4 +1,3 @@
-```markdown
 # ◈ Campus Twin AI
 
 **Dual-Twin Counterfactual Engine · Zero IoT Sensors · Local-Only**
@@ -353,6 +352,5 @@ Provided as-is for research and demonstration purposes. See individual dependenc
 
 *Campus Twin AI · counterfactual verification · no IoT hardware*  
 *LightGBM forecasting · CP-SAT allocation · e-waste reuse*
-```
 
-Save the block above as `README.md` in your repo root — everything between the outer triple-backtick fence is the file content itself.
+
